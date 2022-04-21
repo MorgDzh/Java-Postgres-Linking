@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class Main {
 
-    private static final String DB_USERNAME = "morg";
-    private static final String DB_PASSWORD = "fight0206";
+    private static final String DB_USERNAME = "******";
+    private static final String DB_PASSWORD = "*******";
     private static final String DB_URL = "jdbc:postgresql://localhost:5432/postgres";
 
 
